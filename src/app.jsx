@@ -13,7 +13,7 @@ const App = () => {
   const [isloaded, setisloaded] = useState(true);
   useEffect(() => {
     if (zip === "") {
-      setisClicked("94040");
+      setisClicked("847225");
     }
     // 5484c03b19a2350b0156af89c809c3df
     const url =
